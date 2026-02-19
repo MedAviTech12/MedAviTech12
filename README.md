@@ -14,7 +14,7 @@ Driven to design software-powered medical technologies for next-generation R&D.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
-### 🔬 Research Identity
+## 🔬 Research Identity
 <a href="https://orcid.org/0009-0003-3490-127X">
   <img src="https://cdn.simpleicons.org/orcid/A6CE39" width="40"/>
 </a>
