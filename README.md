@@ -1,14 +1,21 @@
-- Hi there, I'm Abhishek Kumar Jha, also known as MedTechAvi12.
+👋 Abhishek Kumar Jha
 
-📚 I'm currently pursuing Biomedical Engineering (B.Tech).
+Biomedical Engineering student building at the intersection of neuroscience and AI.
+Focused on EEG signal processing, neuroengineering, medical imaging , and intelligent healthcare systems.
+Driven to design software-powered medical technologies for next-generation R&D.
 
-💡 I'm passionate about healthcare innovations, particularly in medical imaging, neuroengineering, nanotechnology, AI and its applications.
+📫 abhishekjha.bio@gmail.com
 
-🌱 I'm always eager to learn and collaborate on projects related to healthcare technology.
+## 🛠 Tech Stack
 
-📫 Feel free to connect with me through my social media profiles!
-
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" width="45" />
+</p>
 
 <!---
 MedAviTech12/MedAviTech12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
